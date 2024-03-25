@@ -1,4 +1,4 @@
 # **TP GIT**
-- ## **Integrantes**
+## **Integrantes**
 - **Martín Tabusso**
 - **Ayélen Franco**
