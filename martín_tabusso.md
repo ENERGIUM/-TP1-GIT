@@ -15,3 +15,6 @@
 - Resolución de problemas 
 - Capacidad de adaptación 
 - Aplicado
+
+## Hobby 
+- Arduino y Microcontroladores
